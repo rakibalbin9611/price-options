@@ -1,7 +1,7 @@
 import React from "react";
 
 const Link = ({ route }) => {
-  console.log(route);
+  // console.log(route);
   return (
     <div className="mr-8 hover:bg-yellow-500 px-4 rounded">
       <li>
